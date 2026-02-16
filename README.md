@@ -1,10 +1,3 @@
-Here’s a **clean, summit-ready README** you can drop straight into the repo.
-It’s written so **another architect could clone it and understand the point in 2 minutes**, even if they’ve never touched WASM or Spin.
-
-You can copy-paste this as `README.md`.
-
----
-
 # WebAssembly on the Server – Spin Demo
 
 This repository demonstrates **WebAssembly (WASM) running on the server** using **Spin** as the runtime.
